@@ -12,7 +12,7 @@ export default function Page() {
       {/* Top identity bar matching reference image */}
       <div className="flex flex-wrap items-center justify-between px-6 lg:px-8 py-3 bg-white shadow-sm gap-4">
         <div className="flex items-center gap-4">
-          <img
+          <img 
             src="/Ministry_of_Rural_Development.png"
             alt="Ministry of Rural Development, Government of India"
             className="h-14 md:h-16 w-auto object-contain shrink-0"
